@@ -28,8 +28,9 @@ Estudo estruturado em ciclos semanais com 5 pilares:
 ## Status
 
 * **Início:** 23/10/2026
-* **Semana atual:** 1 — Setup + lógica de programação
-* **Próximo marco:** Fim da Fase 1 (fundamentos) em \~julho/2026
+* **Semana atual:** Semana 04 — Blocos 4 e 5 concluídos, com mini-projeto de estoque de café.
+
+
 
 ## Stack em construção
 
